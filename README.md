@@ -15,3 +15,5 @@ la estructura de las carpetas es la siguiente
 **&nbsp;&nbsp;&nbsp;->Grafcet.png**  --Representacion visual con un esquema grafcet del funcionamiento del firmware.  
   
 **->documento proyecto 1.6.pdf**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--Documentación  
+
+## 3/2020
