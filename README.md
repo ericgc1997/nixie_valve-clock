@@ -34,14 +34,14 @@ la estructura de las carpetas es la siguiente
 
 ```
 Presentación proyecto.pptx: Power opoint con los pasos que se suiguieron para la realizacion de este proyecto
--Hardware: Achivos relacionados con el esquematico electronico y el PCB.  
--Gerber_PCB reloj: Gerbers del PCB.  
--PCB reloj _20200105190819: PDF de cada una de las capas de fabricacion del PCB.   
--PCB atium .pcbdoc: Fchero altium del PCB.	  
--Software: Archivos relacionados con el firmware del dispositivo.  
--Codigo_reloj_1.4_nano Cada uno de los archivos .ino de programacion del firmware.  
--Grafcet.png: Representacion visual con un esquema grafcet del funcionamiento del firmware.  
--Documento proyecto 1.6.pdf: Documentación  
+- Hardware: Achivos relacionados con el esquematico electronico y el PCB.  
+- Gerber_PCB reloj: Gerbers del PCB.  
+- PCB reloj _20200105190819: PDF de cada una de las capas de fabricacion del PCB.   
+- PCB atium .pcbdoc: Fchero altium del PCB.	  
+- Software: Archivos relacionados con el firmware del dispositivo.  
+- Codigo_reloj_1.4_nano Cada uno de los archivos .ino de programacion del firmware.  
+- Grafcet.png: Representacion visual con un esquema grafcet del funcionamiento del firmware.  
+- Documento proyecto 1.6.pdf: Documentación  
 
 ![Resultado final](https://github.com/ericgc1997/nixie_valve-clock/blob/master/pictures/final%20product.jpg)
 Resultado final
@@ -54,5 +54,5 @@ Capas PCB
   
   
 ![Esquematico](https://github.com/ericgc1997/nixie_valve-clock/blob/master/pictures/Esquematico%201.6.png)
-Esquematico
+Esquemático
 
