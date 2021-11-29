@@ -43,4 +43,8 @@ Presentación proyecto.pptx: Power opoint con los pasos que se suiguieron para l
 -Grafcet.png: Representacion visual con un esquema grafcet del funcionamiento del firmware.  
 -Documento proyecto 1.6.pdf: Documentación  
 
-![pictures](https://github.com/ericgc1997/nixie_valve-clock/pictures/Ensamblaje/caja%%nixie.JPG)
+![pictures](https://github.com/ericgc1997/nixie_valve-clock/blob/master/pictures/final%20product.jpg)
+![pictures](https://github.com/ericgc1997/nixie_valve-clock/blob/master/pictures/placa.png)
+![pictures](https://github.com/ericgc1997/nixie_valve-clock/blob/master/pictures/Esquematico%201.6.png)
+
+
