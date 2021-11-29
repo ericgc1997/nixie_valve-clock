@@ -33,7 +33,8 @@ la estructura de las carpetas es la siguiente
     └───codigo_reloj_1.4_nano
 
 ```
-Presentación proyecto.pptx: Power opoint con los pasos que se suiguieron para la realizacion de este proyecto
+Estas son las funciones de los archivos y directorios mas importantes
+- Presentación proyecto.pptx: Power opoint con los pasos que se suiguieron para la realizacion de este proyecto
 - Hardware: Achivos relacionados con el esquematico electronico y el PCB.  
 - Gerber_PCB reloj: Gerbers del PCB.  
 - PCB reloj _20200105190819: PDF de cada una de las capas de fabricacion del PCB.   
