@@ -1,7 +1,8 @@
 # nixie_valve-clock
 #### 3/2020 Eric Garcia
-En este repositorio se encuentra la documentacion para la creacion de un reloj despertador, usando valvulas Nixie como display,
-la estructura de las carpetas es la siguiente
+In the next repository you can find the documentation needed to create an alarm clock using Nixie valves as a display.
+This is the project archives structure 
+
 ```bash
 │   documento proyecto 1.6.pdf
 │   Presentación proyecto.pptx
@@ -34,26 +35,26 @@ la estructura de las carpetas es la siguiente
 
 ```
 Estas son las funciones de los archivos y directorios mas importantes
-- Presentación proyecto.pptx: Power opoint con los pasos que se suiguieron para la realizacion de este proyecto
-- Hardware: Achivos relacionados con el esquematico electronico y el PCB.  
-- Gerber_PCB reloj: Gerbers del PCB.  
-- PCB reloj _20200105190819: PDF de cada una de las capas de fabricacion del PCB.   
-- PCB atium .pcbdoc: Fchero altium del PCB.	  
-- Software: Archivos relacionados con el firmware del dispositivo.  
-- Codigo_reloj_1.4_nano Cada uno de los archivos .ino de programacion del firmware.  
-- Grafcet.png: Representacion visual con un esquema grafcet del funcionamiento del firmware.  
-- Documento proyecto 1.6.pdf: Documentación  
+- Presentación proyecto.pptx: Power point explaining the steps that were needed to make this project.
+- Hardware: Files related with electronic schematic and PCB.  
+- Gerber_PCB reloj:PCB Gerbers .  
+- PCB reloj _20200105190819: Each one of the PCB manufacturing layers.  
+- PCB atium .pcbdoc:PCB altium file.	  
+- Software: Files related with device firmware.  
+- Codigo_reloj_1.4_nano: Each one of the .ino firmware files.  
+- Grafcet.png: Grafcet scheme for firmware operation visual representation.  
+- Documento proyecto 1.6.pdf: Documentation  
 
 ![Resultado final](https://github.com/ericgc1997/nixie_valve-clock/blob/master/pictures/final%20product.jpg)
-Resultado final
+Final Result
   
   
   
-![Capas PCB](https://github.com/ericgc1997/nixie_valve-clock/blob/master/pictures/placa.png)
-Capas PCB
+![PCB Layers](https://github.com/ericgc1997/nixie_valve-clock/blob/master/pictures/placa.png)
+PCB Layers
   
   
   
-![Esquematico](https://github.com/ericgc1997/nixie_valve-clock/blob/master/pictures/Esquematico%201.6.png)
-Esquemático
+![Schematic](https://github.com/ericgc1997/nixie_valve-clock/blob/master/pictures/Esquematico%201.6.png)
+Schematic 
 
