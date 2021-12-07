@@ -34,7 +34,9 @@ This is the project archives structure
     └───codigo_reloj_1.4_nano
 
 ```
-Estas son las funciones de los archivos y directorios mas importantes
+
+(Please keep in mind that some of the documentation files are writen in spanish)
+This is the purpose of some of the files and directories
 - Presentación proyecto.pptx: Power point explaining the steps that were needed to make this project.
 - Hardware: Files related with electronic schematic and PCB.  
 - Gerber_PCB reloj:PCB Gerbers .  
